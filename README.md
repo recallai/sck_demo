@@ -1,1 +1,1 @@
-SCK demo
+# ScreenCaptureKit Meeting Recording Demo
