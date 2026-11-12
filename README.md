@@ -9,7 +9,7 @@ https://www.loom.com/share/f9c5ede9b7664f858c6c2910774d5898
 
 ## Requirements
 
-- macOS 15 or later (ScreenCaptureKit's microphone capture API requires macOS 15)
+- macOS 26.4 or later (ScreenCaptureKit's microphone capture API requires macOS 15)
 - Xcode 26 or later
 - An Apple ID signed in to Xcode (a free account is enough to run the app locally)
 
